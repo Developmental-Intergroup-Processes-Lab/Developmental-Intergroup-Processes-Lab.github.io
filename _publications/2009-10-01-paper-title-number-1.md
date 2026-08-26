@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Values over virtues: How children trade off their moral concern for animals with the importance of human eating practices"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
