@@ -1,12 +1,15 @@
 ---
-layout: archive
 title: "People"
+layout: archive
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign people = site.teaching | sort: "title" %}
+{% for person in people %}
+  <div style="margin-bottom: 40px; overflow: auto;">
+    <h2>{{ person.title }}</h2>
+    <p><em>{{ person.type }}, {{ person.venue }}</em></p>
+    {{ person.content }}
+  </div>
 {% endfor %}
