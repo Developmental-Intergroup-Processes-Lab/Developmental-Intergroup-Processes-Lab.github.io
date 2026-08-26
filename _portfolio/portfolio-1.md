@@ -4,6 +4,7 @@ excerpt: "Humans’ relationship with other animals is complex. Certain species 
 
 - CALF (Children’s attitudes towards Animal Lives & Food) - seeking to understand the longitudinal development of children’s attitudes towards non-human animals and the relationship this has with animals’ position in human society as food
 - Speciesism Across Cultures - examining the ways in which our thinking about non-human animals varies in childhood across cultures (UK, Germany, Türkiye, China, South Korea)<br/><img src='/images/moral_circle_transparent.png' width='500' style='margin-top: 20px;'>"
+
 collection: portfolio
 ---
 
