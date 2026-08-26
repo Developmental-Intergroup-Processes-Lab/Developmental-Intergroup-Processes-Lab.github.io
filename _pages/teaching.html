@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% assign people = site.teaching | sort: "title" %}
+{% assign people = site.teaching | sort: "rank" %}
 {% for person in people %}
   <div style="margin-bottom: 40px; overflow: auto;">
     <h2>{{ person.title }}</h2>
