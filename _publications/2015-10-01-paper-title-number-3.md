@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Reasoning to Justify Eating Animals Varies With Age"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+research_area: "Animals and Nature"
+permalink: /publication/2025-reasoning-eating
+date: 2025-06-01
+venue: 'Child Development'
+paperurl: 'https://doi.org/10.1111/cdev.14217'
+citation: "McGuire, L., Bagus, T., Carter, A., & Faber, N. (2025). Reasoning to justify eating animals varies with age. <i>Child Development</I>,96(3), 953 - 965."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The present study examined the justifications used by children, adolescents, and adults to justify eating animals. Children (n = 100, Mage = 9.82, SD = 0.77, female n = 49) as compared to adolescents (n = 76, Mage = 14.0, SD = 1.62, female n = 36) and adults (n = 113, Mage = 44.1, SD = 14.4, female n = 54) were more ambivalent or opposed to eating animals, and they showed a distinct reasoning pattern. Children relied less on arguments about meat eating being natural or with to humane slaughter practices. These findings align with recent theoretical perspectives that reasoning may be used to counter cognitive dissonance arising from knowledge of food production systems.
