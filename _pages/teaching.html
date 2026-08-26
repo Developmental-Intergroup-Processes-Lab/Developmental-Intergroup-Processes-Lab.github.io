@@ -10,6 +10,6 @@ author_profile: true
   <div style="margin-bottom: 40px; overflow: auto;">
     <h2>{{ person.title }}</h2>
     <p><em>{{ person.type }}, {{ person.venue }}</em></p>
-    {{ person.content }}
+    {{ person.content | markdownify }}
   </div>
 {% endfor %}
