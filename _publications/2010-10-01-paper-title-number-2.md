@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "The development of humans' moral views of other animals"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+research_area: "Animals and Nature"
+permalink: /publication/2026-moral-view-of-animals
+date: 2026-03-01
+venue: 'Child Development Perspectives'
+paperurl: 'https://doi.org/10.1093/cdpers/aadaf001'
+citation: 'McGuire, L., Piazza, J., Faber, N. S., Libel, K., Wilks, M. (2026). "The development of humans' moral views of other animals." <i>Child Development Perspectives, 20(1)</I>, 18-24.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Humans' moral views of animals vary in important ways across development. In many cases, adults display anthropocentric moral judgments that relate to the exploitation of animals as a resource. In contrast, children appear to have a more inclusive perspective regarding animals. In this article, we review and synthesize studies examining differences in how children, adolescents, and adults make moral judgments about animals. We consider how both cultural and individual differences may relate to this developmental trajectory.
