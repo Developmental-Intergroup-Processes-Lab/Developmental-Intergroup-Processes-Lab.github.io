@@ -2,13 +2,11 @@
 title: "Values over virtues: How children trade off their moral concern for animals with the importance of human eating practices"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+research_area: "Animals and Nature"
+permalink: /publication/2026-values-over-virtues
+date: 2026-09-01
+venue: 'Social Psychological and Personality Science'
+paperurl: 'https://doi.org/xxxxx'
+citation: 'Carter, A. G., Faber, N. S., McGuire, L. (2026). "Values over virtues: How children trade off their moral concern for animals with the importance of human eating practices." <i>Social Psychological and Personality Science, 7(17)</I>, 867-876.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Children care for animals more than adults do, yet as they develop, find it increasingly acceptable to eat meat. How do children learn to consume some animals while continuing to care for others? We argue that observing the cultural importance of food practices leads children to trade-off their moral concern for animals against cultural values.
