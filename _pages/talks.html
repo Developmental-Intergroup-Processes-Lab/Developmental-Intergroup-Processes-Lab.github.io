@@ -12,8 +12,11 @@ author_profile: true
     <p><em>{{ item.venue }}, {{ item.date | date: "%B %Y" }}</em></p>
     <img src="{{ item.image }}" width="300" style="display: block; margin-top: 10px; margin-bottom: 15px;">
     {{ item.content | markdownify }}
-    {% if item.downloadurl %}
-      <a href="{{ item.downloadurl }}" style="display: inline-block; padding: 6px 14px; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-top: 8px;">Download {{ item.download_label | default: "Poster" }}</a>
-    {% endif %}
+{% if item.downloadurl %}
+  <a href="{{ item.downloadurl }}" style="display: inline-block; padding: 6px 14px; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-top: 8px; margin-right: 10px;">Download {{ item.download_label | default: "Presentation" }}</a>
+{% endif %}
+{% if item.posterurl %}
+  <a href="{{ item.posterurl }}" style="display: inline-block; padding: 6px 14px; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-top: 8px;">Download {{ item.poster_label | default: "Poster" }}</a>
+{% endif %}
   </div>
 {% endfor %}
