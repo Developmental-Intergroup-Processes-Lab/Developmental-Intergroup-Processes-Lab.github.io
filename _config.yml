@@ -23,7 +23,7 @@ repository               : "Developmental-Intergroup-Processes-Lab/Developmental
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lab logo no background.png"
+  avatar           : "lab-logo.jpg"
   name             : "DIP Lab"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
