@@ -7,7 +7,7 @@ author_profile: true
 We'd love to hear from you! Whether you're interested in collaborating, want to know more about our research, or are a school or organisation interested in getting involved, please get in touch.
 
 <p><strong>School & Partnership Inquiries</strong><br/>
-<a href="mailto:L.McGuire@exeter.ac.uk"><i class="fas fa-envelope"></i> L.McGuire@exeter.ac.uk</a></p>
+<a href="mailto:L.McGuire@exeter.ac.uk"><i class="fas fa-envelope"></i></a></p>
 
 <h3>Contact the team</h3>
 
