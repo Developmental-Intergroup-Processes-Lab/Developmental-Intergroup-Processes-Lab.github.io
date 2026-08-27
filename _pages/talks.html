@@ -10,7 +10,7 @@ author_profile: true
   <div style="margin-bottom: 50px; overflow: auto;">
     <h2>{{ item.title }}</h2>
     <p><em>{{ item.venue }}, {{ item.date | date: "%B %Y" }}</em></p>
-    <img src="{{ item.image }}" width="300" style="display: block; margin-top: 10px; margin-bottom: 15px;">
+    <img src="{{ item.image }}" width="350" style="display: block; margin-top: 10px; margin-bottom: 15px;">
     {{ item.content | markdownify }}
 {% if item.downloadurl %}
   <a href="{{ item.downloadurl }}" style="display: inline-block; padding: 6px 14px; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-top: 8px; margin-right: 10px;">Download {{ item.download_label | default: "Presentation" }}</a>
