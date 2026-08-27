@@ -1,64 +1,51 @@
 ---
+title: "Contact"
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+We'd love to hear from you! Whether you're interested in collaborating, want to know more about our research, or are a school or organisation interested in getting involved, please get in touch.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<p><strong>School & Partnership Inquiries</strong><br/>
+<a href="mailto:L.McGuire@exeter.ac.uk">L.McGuire@exeter.ac.uk</a></p>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<h3>Contact the team</h3>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<p><strong>Adam Rutland</strong> (Lab Director)<br/>
+<a href="mailto:A.Rutland@exeter.ac.uk">A.Rutland@exeter.ac.uk</a></p>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<p><strong>Luke McGuire</strong> (Lab Director)<br/>
+<a href="mailto:L.McGuire@exeter.ac.uk">L.McGuire@exeter.ac.uk</a></p>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<p><strong>Alex Carter</strong> (PhD Student)<br/>
+<a href="mailto:ac1037@exeter.ac.uk">ac1037@exeter.ac.uk</a></p>
+
+<p><strong>Dandan Li</strong> (PhD Student)<br/>
+<a href="mailto:dl576@exeter.ac.uk">dl576@exeter.ac.uk</a></p>
+
+<p><strong>Jielin Shen</strong> (PhD Student)<br/>
+<a href="mailto:js1753@exeter.ac.uk">js1753@exeter.ac.uk</a></p>
+
+<p><strong>Cynthia Weng</strong> (PhD Student)<br/>
+<a href="mailto:xw456@exeter.ac.uk">xw456@exeter.ac.uk</a></p>
+
+<p><strong>Burhan Gerger</strong> (PhD Student)<br/>
+<a href="mailto:mg979@exeter.ac.uk">mg979@exeter.ac.uk</a></p>
+
+<p><strong>Emma Garton</strong> (PhD Student)<br/>
+<a href="mailto:elg224@exeter.ac.uk">elg224@exeter.ac.uk</a></p>
+
+<p><strong>Ojo Kumar</strong> (PhD Student)<br/>
+<a href="mailto:om430@exeter.ac.uk">om430@exeter.ac.uk</a></p>
+
+<p><strong>Ezgi Beki Körpe</strong> (PhD Student)<br/>
+<a href="mailto:ezgibeki@gmail.com">ezgibeki@gmail.com</a></p>
+
+<p><strong>Esther Nicholas</strong> (Research Affiliate)<br/>
+<a href="mailto:en320@exeter.ac.uk">en320@exeter.ac.uk</a></p>
+
+
+
+
+
