@@ -1,16 +1,19 @@
 ---
+title: "Media"
 layout: archive
-title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% assign media = site.talks | sort: "date" | reverse %}
+{% for item in media %}
+  <div style="margin-bottom: 50px; overflow: auto;">
+    <h2>{{ item.title }}</h2>
+    <p><em>{{ item.venue }}, {{ item.date | date: "%B %Y" }}</em></p>
+    <img src="{{ item.image }}" width="400" style="display: block; margin-top: 10px; margin-bottom: 15px;">
+    {{ item.content | markdownify }}
+    {% if item.downloadurl %}
+      <a href="{{ item.downloadurl }}" style="display: inline-block; padding: 6px 14px; background-color: #4285F4; color: white; border-radius: 4px; text-decoration: none; font-size: 0.9em; margin-top: 8px;">Download {{ item.download_label | default: "Poster" }}</a>
+    {% endif %}
+  </div>
 {% endfor %}
